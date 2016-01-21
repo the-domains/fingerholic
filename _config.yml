@@ -1,0 +1,28 @@
+name: fingerholic
+favicon: null
+layout_spectrum: 0.4537730042356998
+typography_spectrum: 0.8109929370693862
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.33545862999744713
+  lightness: 0.8897049778606743
+  saturation: 0.47589653730392456
+  rhythmicContrast: 0.2063861412461847
+purpose: []
